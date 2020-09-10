@@ -1,0 +1,62 @@
+
+.profbox {
+    height:400px;
+    width: 900px;
+    background: rgba(39, 227, 227, 0.37);
+    color:#e21129;
+    padding:40px;
+    margin:20px;
+   text-align: center; 
+    margin-top: 55px;
+    margin-right:55px;
+    float:right;
+}
+html{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa12lbdh7ns8rQzHUHRWIcWznBLjVocWJnQw&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.profpic {
+    border-radius: 500px;
+    height:200px;
+    width:200px;
+}
+
+h1 {
+    font-weight: 100;
+    letter-spacing: 8;
+    font-size:50px;
+    
+}
+
+ul {
+    list-style:none;
+    padding:0;
+    margin-top: 55px;
+    
+    bottom: 0;
+}
+ul  a{
+    background-color: rgba(39, 227, 155, 0.37);
+    text-decoration: none;
+    font-family:fantasy;
+    font-size: 20px;
+    border:1px solid red;
+    border-radius:12px;
+    margin:30px;
+    color:yellow;
+    width:300px;
+    padding:10px;
+    display:block;
+    line-height: 20px;
+    
+    
+}
+ul  a:hover{
+    background-color: black;
+    color:white;
+}
+body {
+    margin:20;
+}
